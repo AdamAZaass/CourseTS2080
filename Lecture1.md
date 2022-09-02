@@ -17,11 +17,14 @@ If we have a person class, we can hide the social security number from the rest 
 
 ## Abstraction
 
-Abstraction is...
+Abstraction is... -- Its in the middle of inheritance og encapsulation. We will take the useable part. example -- import numpy as np in pynthon. Numpy is a abstraction in the code. an open source.
+A natural extension of encapsulation. If you use facebook, you will see a GUI. 
+Importance of abstraction --> prevents code repetition, improves flexibility and working in larger teams. 
 
 ## Inheritance
 
-Inheritance is...
+Inheritance is --- keyword subclasses takes from parent class. it makes new classes of existed classes.The attributes is overwrited. The advantegs of inheritance -- 
+Modular code base -- it will ttake you extra long time to finish the code. 3 
 
 ## Polymorphism
 
