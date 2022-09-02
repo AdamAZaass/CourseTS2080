@@ -28,4 +28,4 @@ Modular code base -- it will ttake you extra long time to finish the code. 3
 
 ## Polymorphism
 
-Polymorphism is...
+Polymorphism is... ----->>  when you can make subclasses of the superclass. The advantegts of that is that you can 
